@@ -1,4 +1,5 @@
-<h2 align="center">AngerCar</h2>
+<!-- <h2 align="center">AngerCar</h2> -->
+# AngerCar
 <p align="center">
     <a href="https://github.com/leoliu5550/AngerCar/blob/main/LICENSE">
         <img alt="license" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue">
@@ -17,3 +18,6 @@
     </a>
 </p>
 
+I created this repository because I'm fed up with the reckless, illegal behavior on our roads. It's especially infuriating to see drivers who endanger themselves and others.
+
+[development plan](https://hackmd.io/EVHAuEMhQW-yqpfukDQ3Rw)
