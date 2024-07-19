@@ -20,4 +20,4 @@
 
 I created this repository because I'm fed up with the reckless, illegal behavior on our roads. It's especially infuriating to see drivers who endanger themselves and others.
 
-[development plan](https://hackmd.io/EVHAuEMhQW-yqpfukDQ3Rw)
+[development plan](https://hackmd.io/gOlLGCrhTiiDTJcZpPi7pw)
