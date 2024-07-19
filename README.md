@@ -3,9 +3,6 @@
     <a href="https://github.com/leoliu5550/AngerCar/blob/main/LICENSE">
         <img alt="license" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue">
     </a>
-    <a href="httaaps://github.com/leoliu5550/AngerCar/blob/main/LICENSE">
-        <img alt="license" src="https://img.shields.io/github/license/leoliu5550/RT-DETRv2">
-    </a>
     <a href="https://github.com/leoliu5550/AngerCar/pulls">
         <img alt="prs" src="https://img.shields.io/github/issues-pr/leoliu5550/RT-DETRv2">
     </a>
